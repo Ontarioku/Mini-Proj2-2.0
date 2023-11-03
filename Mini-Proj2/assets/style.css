@@ -1,0 +1,70 @@
+body, h1, h2, h3, h4, h5, h6, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    font-family: ;
+    background: color #808080; 
+    margin: ;
+    padding: ;
+
+
+}
+
+header {
+
+    background-color: #808080;
+    color: palevioletred;
+    text-align:center ;
+    padding: ;
+}
+
+header h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font: size 200%; 
+    margin:20px ;
+}
+
+header p {
+    font-family: Arial, Helvetica, sans-serif
+    font-size: 24px;
+    margin: 20px;
+}
+
+main{
+    display: grid;
+    width: 100%;
+    grid-template-columns:  repeat (12. Ifr);
+
+
+
+
+}
+
+.card {
+display:flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+
+
+h2 { 
+
+
+    font-size: ;
+    margin: ;
+    color: ;
+}
+
+h3{
+    font-size: ;
+    margin: ;
+    color: ;
+
+
+
+
+}
